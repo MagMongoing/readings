@@ -5,16 +5,16 @@
 
 - 高性能MySQL  8%
 
-- 流畅的python 6% 
+- 流畅的python 6%
 
 - go bootcamp  20%
 
-- designing-data-intensive-applications  [中文版](https://github.com/Vonng/ddia)  在看replication部分
+- designing-data-intensive-applications， 在看replication部分  [中文版](https://github.com/Vonng/ddia)
 
 ### 非技术类
 - 原则  30%
 
-- 反暴力沟通 
+- 非暴力沟通
 
 ## 已完成
 
