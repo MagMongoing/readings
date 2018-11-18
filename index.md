@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 进行中
 
-You can use the [editor on GitHub](https://github.com/MagMongoing/readings/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 技术类
+- MySQL运维内参  20%
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 高性能MySQL  8%
 
-### Markdown
+- 流畅的python 6% 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- go bootcamp  20%
 
-```markdown
-Syntax highlighted code block
+- designing-data-intensive-applications  [中文版](https://github.com/Vonng/ddia)  在看replication部分
 
-# Header 1
-## Header 2
-### Header 3
+### 非技术类
+- 原则  30%
 
-- Bulleted
-- List
+- 反暴力沟通 
 
-1. Numbered
-2. List
+## 已完成
 
-**Bold** and _Italic_ and `Code` text
+## 计划
 
-[Link](url) and ![Image](src)
-```
+### 技术类
+- MySQL8 Cookbook
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Database Reliability Engineerning
 
-### Jekyll Themes
+- Kafka权威指南
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MagMongoing/readings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 非技术类
+- 巨婴国
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
