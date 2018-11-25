@@ -9,12 +9,20 @@
 
 - go bootcamp  20%
 
-- designing-data-intensive-applications， 在看replication部分  [中文版](https://github.com/Vonng/ddia)
+- designing-data-intensive-applications， 在看replication部分  [中文版](https://github.com/Vonng/ddia) 9%
+
+- Redis实战   3%
+
+- Kafka权威指南 12%
 
 ### 非技术类
 - 原则  30%
 
-- 非暴力沟通
+- 如何高效学习  24%
+
+- 自控力  13%
+
+- 非暴力沟通 10%
 
 ## 已完成
 
@@ -25,7 +33,6 @@
 
 - Database Reliability Engineerning
 
-- Kafka权威指南
 
 ### 非技术类
 - 巨婴国
